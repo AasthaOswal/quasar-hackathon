@@ -1,0 +1,37 @@
+ *PS5 :  Alumni HUB VDT*
+    
+    *Description:* Develop a platform to connect alumni and students, enabling mentorship and professional networking, especially for technical education departments. It will include features like a searchable alumni directory, mentorship pairing based on skills and interests, exclusive job and internship postings, discussion forums for technical knowledge sharing, and event scheduling for webinars and reunions.
+    
+    *Business Requirements:*
+    
+    - Foster community-building through exclusive networking features.
+    - Provide opportunities for mentorship and career growth.
+    - Generate revenue through event fees or premium memberships.
+
+
+IDEAS:-
+-> location based alumni search + recommendations - map mein dikhega
+-> webinar- end mein quiz hoga-> points
+-> alumni can post his/her problem on portal, students can solve it
+-> Event portal- all free and paid events visible, alumni and students can join----> all events scheduled can be visible
+										----> reunions included
+-> automatic mentor pairing with students
+-> discussion form- reddit- post- question, just share industry insights and for students
+-> according to graduation batches, alumni are categorised batchwise
+-> college hosting/conducting event and inviting alumni
+-> JobListing portal:- alumni can post internship and jobs
+
+
+
+TO RESEARCH ON:
+usecase wali slide
+business model slide
+
+
+
+4 feb:- finalize idea
+5 feb:- start ppt
+15 feb: -finalize ppt
+18 feb: last day submission
+
+
